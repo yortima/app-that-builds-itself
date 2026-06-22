@@ -1,3 +1,3 @@
 # App that build itself 
 
-![app-that-builds-itself.png]
+![](app-that-builds-itself.png)
